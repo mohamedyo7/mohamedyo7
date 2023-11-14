@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mohamedyo7
+- 👀 I’m interested in coding and learning new technologies
+- 🌱 I’m currently learning DevOps & Python
